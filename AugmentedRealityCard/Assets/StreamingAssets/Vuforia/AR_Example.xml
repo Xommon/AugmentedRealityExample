@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="yam_back" size="0.085600 0.049245" />
     <ImageTarget name="the_yam_fam" size="0.085600 0.049245" />
   </Tracking>
 </QCARConfig>
